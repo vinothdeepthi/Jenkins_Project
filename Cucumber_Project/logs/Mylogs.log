@@ -1,0 +1,388 @@
+[INFO ] 2023-12-08 11:24:21.738 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 11:24:21.745 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 11:24:21.745 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 11:24:21.745 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 11:24:21.746 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 11:24:21.746 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 11:24:23.180 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 11:24:23.200 [main] Place_Order - Lounching The Browser 
+[INFO ] 2023-12-08 11:24:26.023 [main] Place_Order - User Entering The User Name And Password 
+[INFO ] 2023-12-08 11:24:26.357 [main] Place_Order - User Successfully Logged 
+[INFO ] 2023-12-08 11:24:26.357 [main] Place_Order - User Search The Product 
+[INFO ] 2023-12-08 11:24:26.725 [main] Place_Order - User Successuclly Click The Product Of a princess in theory
+[INFO ] 2023-12-08 11:24:26.792 [main] Place_Order - Product Sucessfully Add To The Cart Page 
+[INFO ] 2023-12-08 11:24:26.792 [main] Place_Order - User Naviage To Cart Page 
+[INFO ] 2023-12-08 11:24:44.672 [main] Commons - If The Test Scenario As Failed Than Take the ScreenShots
+[INFO ] 2023-12-08 11:24:51.978 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 11:24:51.986 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 11:24:51.986 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 11:24:51.987 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 11:24:51.987 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 11:24:51.987 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 11:24:53.309 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 11:24:53.327 [main] Place_Order - Lounching The Browser 
+[INFO ] 2023-12-08 11:24:54.474 [main] Place_Order - User Entering The User Name And Password 
+[INFO ] 2023-12-08 11:24:54.818 [main] Place_Order - User Successfully Logged 
+[INFO ] 2023-12-08 11:24:54.819 [main] Place_Order - User Search The Product 
+[INFO ] 2023-12-08 11:24:55.223 [main] Place_Order - User Successuclly Click The Product Of a princess in theory
+[INFO ] 2023-12-08 11:24:55.283 [main] Place_Order - Product Sucessfully Add To The Cart Page 
+[INFO ] 2023-12-08 11:24:55.283 [main] Place_Order - User Naviage To Cart Page 
+[INFO ] 2023-12-08 11:24:55.689 [main] Place_Order - User Successfully Naviage To The CheckOut Page 
+[INFO ] 2023-12-08 11:24:55.690 [main] Place_Order - User Entering The Shipping Addres 
+[INFO ] 2023-12-08 11:24:56.062 [main] Place_Order - User Successfully Entring The Shipping Addres 
+[INFO ] 2023-12-08 11:24:56.121 [main] Place_Order - User Successfully Place The Order Of The Book 
+[INFO ] 2023-12-08 11:24:59.092 [main] Place_Order - User Successfully Get The Order Id  Of 180-310139
+[INFO ] 2023-12-08 11:24:59.092 [main] Commons - If The Test Scenario As Failed Than Take the ScreenShots
+[INFO ] 2023-12-08 11:24:59.093 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:09:44.043 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:09:44.050 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:09:44.050 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:09:44.051 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:09:44.051 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:09:44.051 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:09:45.480 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:09:45.539 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:09:46.963 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:09:47.321 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:09:47.504 [main] AddToCart - User Add The Product To Cart Page 
+[INFO ] 2023-12-08 16:09:49.582 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:09:49.613 [main] AddToCart - User Successfully Add The Product 
+[INFO ] 2023-12-08 16:09:49.614 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:09:49.828 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:09:49.829 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:09:49.829 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:09:49.829 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:09:49.829 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:09:49.829 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:09:50.647 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:09:50.651 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:09:51.971 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:10:12.517 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:10:12.768 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:10:12.769 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:10:12.769 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:10:12.770 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:10:12.771 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:10:12.771 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:10:13.798 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:10:13.808 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:10:15.626 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:10:15.717 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:10:15.803 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:10:15.906 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:10:15.983 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:10:16.075 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:10:16.148 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:10:16.227 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:10:16.277 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:10:16.322 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:10:16.322 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:11:06.195 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:11:06.204 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:11:06.204 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:11:06.205 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:11:06.205 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:11:06.205 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:11:07.527 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:11:07.578 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:11:09.909 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:11:10.269 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:11:10.441 [main] AddToCart - User Add The Product To Cart Page 
+[INFO ] 2023-12-08 16:11:12.516 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:11:12.541 [main] Commons - In This Test Scenario As Ben FailedAdd A Product To The Cart
+[INFO ] 2023-12-08 16:11:12.583 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:11:12.584 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:11:12.585 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:11:12.585 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:11:12.585 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:11:12.585 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:11:13.491 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:11:13.506 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:11:15.335 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:11:36.078 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:11:36.254 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:11:36.255 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:11:36.255 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:11:36.255 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:11:36.256 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:11:36.256 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:11:37.098 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:11:37.103 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:11:38.258 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:11:38.364 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:11:38.468 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:11:38.563 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:11:38.647 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:11:38.737 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:11:38.820 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:11:38.896 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:11:38.947 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:11:38.989 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:11:38.990 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:17:32.725 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:17:32.734 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:17:32.734 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:17:32.735 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:17:32.735 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:17:32.735 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:17:34.166 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:17:34.186 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:17:34.871 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:17:35.533 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:17:35.741 [main] AddToCart - User Add The Product To Cart Page 
+[INFO ] 2023-12-08 16:17:37.810 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:17:37.862 [main] AddToCart - User Successfully Add The Product 
+[INFO ] 2023-12-08 16:17:37.863 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:17:38.075 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:17:38.076 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:17:38.076 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:17:38.077 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:17:38.077 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:17:38.077 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:17:39.122 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:17:39.136 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:17:40.752 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:18:01.289 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:18:01.520 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:18:01.521 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:18:01.521 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:18:01.522 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:18:01.522 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:18:01.522 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:18:02.491 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:18:02.501 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:18:04.124 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:18:04.217 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:18:04.299 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:18:04.406 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:18:04.500 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:18:04.584 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:18:04.655 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:18:04.734 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:18:04.780 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:18:04.824 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:18:04.824 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:38:15.735 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:38:15.745 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:38:15.745 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:38:15.746 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:38:15.746 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:38:15.746 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:38:17.015 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:38:17.050 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:38:18.958 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:38:19.300 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:38:19.475 [main] AddToCart - User Add The Product To Cart Page 
+[INFO ] 2023-12-08 16:38:21.549 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:38:21.575 [main] AddToCart - User Successfully Add The Product 
+[INFO ] 2023-12-08 16:38:21.576 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:38:21.815 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:38:21.816 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:38:21.816 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:38:21.817 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:38:21.817 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:38:21.817 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:38:22.822 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:38:22.836 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:38:24.578 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:38:45.115 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:38:45.338 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:38:45.340 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:38:45.340 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:38:45.341 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:38:45.341 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:38:45.341 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:38:46.322 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:38:46.340 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:38:47.847 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:38:47.941 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:38:48.023 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:38:48.127 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:38:48.213 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:38:48.302 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:38:48.377 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:38:48.458 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:38:48.507 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:38:48.553 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:38:48.553 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:39:50.329 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:39:50.338 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:39:50.339 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:39:50.340 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:39:50.340 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:39:50.341 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:39:51.858 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:39:51.932 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:39:53.793 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:39:54.134 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:39:54.298 [main] AddToCart - User Add The Product To Cart Page 
+[INFO ] 2023-12-08 16:39:56.366 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:39:56.396 [main] AddToCart - User Successfully Add The Product 
+[INFO ] 2023-12-08 16:39:56.397 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:39:56.620 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:39:56.621 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:39:56.621 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:39:56.622 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:39:56.622 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:39:56.622 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:39:57.709 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:39:57.713 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:39:59.351 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:40:19.851 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:40:20.074 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:40:20.075 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:40:20.075 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:40:20.076 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:40:20.076 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:40:20.076 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:40:20.974 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:40:20.984 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:40:23.263 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:40:23.364 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:40:23.455 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:40:23.559 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:40:23.633 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:40:23.724 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:40:23.801 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:40:23.879 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:40:23.925 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:40:23.968 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:40:23.968 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:40:54.070 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:40:54.077 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:40:54.077 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:40:54.078 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:40:54.078 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:40:54.078 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:40:55.477 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:40:55.535 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:40:59.030 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:40:59.377 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:40:59.547 [main] AddToCart - User Add The Product To Cart Page 
+[INFO ] 2023-12-08 16:41:01.630 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:41:01.654 [main] AddToCart - User Successfully Add The Product 
+[INFO ] 2023-12-08 16:41:01.655 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:41:01.850 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:41:01.851 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:41:01.851 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:41:01.852 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:41:01.852 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:41:01.852 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:41:02.860 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:41:02.872 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:41:04.457 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:41:24.957 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:41:25.251 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:41:25.253 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:41:25.253 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:41:25.254 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:41:25.254 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:41:25.254 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:41:26.326 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:41:26.338 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:41:27.846 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:41:27.937 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:41:28.066 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:41:28.207 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:41:28.291 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:41:28.377 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:41:28.455 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:41:28.530 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:41:28.575 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:41:28.623 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:41:28.623 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:42:03.920 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:42:03.927 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:42:03.927 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:42:03.928 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:42:03.928 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:42:03.928 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:42:05.270 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:42:05.301 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:42:06.786 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:42:07.133 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:42:07.303 [main] AddToCart - User Add The Product To Cart Page 
+[INFO ] 2023-12-08 16:42:09.377 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:42:09.402 [main] AddToCart - User Successfully Add The Product 
+[INFO ] 2023-12-08 16:42:09.403 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:42:09.657 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:42:09.657 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:42:09.657 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:42:09.658 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:42:09.658 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:42:09.658 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:42:10.597 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:42:10.602 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:42:12.134 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:42:32.704 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:42:33.033 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:42:33.035 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:42:33.035 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:42:33.037 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:42:33.037 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:42:33.037 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:42:33.865 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:42:33.870 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:42:35.998 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:42:36.092 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:42:36.183 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:42:36.276 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:42:36.357 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:42:36.447 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:42:36.526 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:42:36.611 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:42:36.659 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:42:36.701 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:42:36.701 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:43:39.239 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:43:39.247 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:43:39.248 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:43:39.248 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:43:39.248 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:43:39.249 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:43:40.532 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:43:40.579 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:43:41.889 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:43:42.255 [main] AddToCart - User Search The Particular Book 
+[INFO ] 2023-12-08 16:43:42.439 [main] AddToCart - User Add The Product To Cart Page 
+[ERROR] 2023-12-08 16:44:02.484 [main] AddToCart - no such element: Unable to locate element: {"method":"css selector","selector":"button[color='primaryaaaa']"}
+  (Session info: chrome=119.0.6045.200)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-V16AQSL', ip: '192.168.1.8', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.200, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\admin\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65178}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b024158bb249dc01e5abc8e1fcbf30b3
+*** Element info: {Using=css selector, value=button[color='primaryaaaa']}
+[INFO ] 2023-12-08 16:44:02.487 [main] AddToCart - Product Sucesfully Add Or Not To Verify
+[INFO ] 2023-12-08 16:44:02.527 [main] Commons - In This Test Scenario As Ben FailedAdd A Product To The Cart
+[INFO ] 2023-12-08 16:44:02.754 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:44:03.000 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:44:03.001 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:44:03.001 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:44:03.002 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:44:03.002 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:44:03.002 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:44:04.034 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:44:04.046 [main] AddToCart - Louch The Application
+[INFO ] 2023-12-08 16:44:05.915 [main] AddToCart - Login On The Application 
+[INFO ] 2023-12-08 16:44:26.459 [main] Commons - Close The Browser 
+[INFO ] 2023-12-08 16:44:26.758 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-08 16:44:26.760 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-08 16:44:26.760 [main] Util_Class - Read The Properties File 
+[INFO ] 2023-12-08 16:44:26.761 [main] Util_Class - Get The Data Form Properties File 
+[INFO ] 2023-12-08 16:44:26.761 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-08 16:44:26.761 [main] Util_Class - Louching The Chrome Browser
+[INFO ] 2023-12-08 16:44:27.637 [main] Util_Class - User Given Wait StateMent 
+[INFO ] 2023-12-08 16:44:27.654 [main] Registration_Step_definitions - Louching the Applicaion 
+[INFO ] 2023-12-08 16:44:29.063 [main] Registration_Step_definitions -  User Redirect To Login Page 
+[INFO ] 2023-12-08 16:44:29.157 [main] Registration_Step_definitions - User Redirect To Register page
+[INFO ] 2023-12-08 16:44:29.242 [main] Registration_Step_definitions - user Entering The FirstName
+[INFO ] 2023-12-08 16:44:29.342 [main] Registration_Step_definitions - user Entering The LastName
+[INFO ] 2023-12-08 16:44:29.417 [main] Registration_Step_definitions - user Entering The UserName
+[INFO ] 2023-12-08 16:44:29.503 [main] Registration_Step_definitions - user Entering The Password
+[INFO ] 2023-12-08 16:44:29.582 [main] Registration_Step_definitions - user Entering The ConfirmPassword
+[INFO ] 2023-12-08 16:44:29.661 [main] Registration_Step_definitions - user Selecting The Gender
+[INFO ] 2023-12-08 16:44:29.709 [main] Registration_Step_definitions - user Submit the Register Form
+[INFO ] 2023-12-08 16:44:29.751 [main] Registration_Step_definitions - User Successfully Register
+[INFO ] 2023-12-08 16:44:29.751 [main] Commons - Close The Browser 
