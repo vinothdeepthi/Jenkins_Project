@@ -36,6 +36,8 @@ public class constent  {
 	
 	public static String Accountlogo;
 	
+	static String namea;
+	
     
 	
 	
